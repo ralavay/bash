@@ -1,4 +1,12 @@
-bash
-====
+Useful bash scripts
+===================
 
-useful bash scripts
+vimrc
+-----
+
+Minimal vim config file.
+
+bash_aliases
+------------
+
+My alias file.
