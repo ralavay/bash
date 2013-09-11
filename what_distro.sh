@@ -10,7 +10,6 @@ then
   echo "CentOS"
 fi
 
-
 # Using /etc/issue
 distro=`cat /etc/issue`
 
