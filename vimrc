@@ -1,4 +1,4 @@
-# Copy this file to ~/.vimrc
+" Copy this file to ~/.vimrc
 
 set nocompatible                " choose no compatibility with legacy vi
 syntax enable
