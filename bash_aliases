@@ -27,3 +27,5 @@ alias catn='cat -n'
 alias grep#='grep -v "^#"' # only view the uncomment line
 alias grep##='egrep -v "^#|^$"' # only view the uncomment line + suppress blank lines
 alias ?='whatis $(ls /bin | shuf -n 1)'
+alias pyweb='python -m SimpleHTTPServer'
+alias myip='dig +short myip.opendns.com @resolver1.opendns.com'
