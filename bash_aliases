@@ -29,3 +29,4 @@ alias grep##='egrep -v "^#|^$"' # only view the uncomment line + suppress blank 
 alias ?='whatis $(ls /bin | shuf -n 1)'
 alias pyweb='python -m SimpleHTTPServer'
 alias myip='dig +short myip.opendns.com @resolver1.opendns.com'
+alias pj='python -mjson.tool'
